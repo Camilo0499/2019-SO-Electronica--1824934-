@@ -3,6 +3,6 @@
 * [fork-basico.c](fork-basico.c)
 * [fork-wait,c](fork-wait.c)
 
-#Tarea
+# Tarea
 
 *¿Cómo garantizar que siempre se ejecute primero el padre?
